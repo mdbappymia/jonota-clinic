@@ -34,7 +34,7 @@ const Gallery = () => {
         <div>
           <img
             className="gallery-img"
-            src="https://thumbs.dreamstime.com/b/empty-modern-hospital-corridor-clinic-hallway-interior-background-white-chairs-patients-waiting-doctor-visit-contemporary-208439059.jpg"
+            src="https://thumbs.dreamstime.com/b/dental-chair-medical-devices-inside-clinic-room-110426123.jpg"
             alt=""
           />
           <p className="gallery-caption">Inside Clinic</p>
@@ -66,7 +66,7 @@ const Gallery = () => {
         <div>
           <img
             className="gallery-img"
-            src="https://thumbs.dreamstime.com/b/smiling-receptionist-clinic-young-practitioner-doctor-working-reception-desk-answering-phone-calls-scheduling-72629826.jpg"
+            src="https://media.istockphoto.com/photos/smiling-female-doctor-with-telephone-to-ear-picture-id903613870"
             alt=""
           />
           <p className="gallery-caption">Help Center</p>
