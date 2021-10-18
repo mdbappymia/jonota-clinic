@@ -34,7 +34,7 @@ const Gallery = () => {
         <div>
           <img
             className="gallery-img"
-            src="https://thumbs.dreamstime.com/b/dental-chair-medical-devices-inside-clinic-room-110426123.jpg"
+            src="https://image.freepik.com/free-photo/inside-clinic-with-dentists-chairs_13339-267784.jpg"
             alt=""
           />
           <p className="gallery-caption">Inside Clinic</p>

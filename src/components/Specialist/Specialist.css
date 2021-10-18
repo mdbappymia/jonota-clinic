@@ -1,6 +1,6 @@
 .card-img-top {
   width: 200px !important;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 0 0 50% 50%;
   margin: auto;
 }
