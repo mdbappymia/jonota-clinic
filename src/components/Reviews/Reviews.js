@@ -1,10 +1,8 @@
-import { faStar } from "@fortawesome/free-regular-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useEffect, useState } from "react";
 import { Carousel, Container } from "react-bootstrap";
 import "./Reviews.css";
 
-const Review = () => {
+const Reviews = () => {
   const [reviews, setReviews] = useState([]);
   useEffect(() => {
     fetch("data/review.json")
@@ -72,4 +70,4 @@ const Review = () => {
   );
 };
 
-export default Review;
+export default Reviews;

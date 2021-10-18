@@ -1,9 +1,11 @@
 import React from "react";
 import { Card, Button } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./Service.css";
 
 const Service = ({ service }) => {
-  const { name, img, description } = service;
+  const { id, name, img, description } = service;
+  console.log(id);
   return (
     <Card className="service-card">
       <Card.Img variant="top" src={img} />
@@ -12,7 +14,9 @@ const Service = ({ service }) => {
         <Card.Text className="text-secondary">
           {description.slice(0, 200)}
         </Card.Text>
-        <Button variant="primary">View Services</Button>
+        <Link to={`/servicedetails/${id}`}>
+          <Button variant="primary">View Services</Button>
+        </Link>
       </Card.Body>
     </Card>
   );
