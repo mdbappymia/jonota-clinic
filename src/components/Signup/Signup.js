@@ -21,7 +21,6 @@ const Signup = () => {
     signInUsingGoogle()
       .then((result) => {
         history.push(dest_url);
-        console.log(dest_url);
       })
       .catch((err) => setError(err.message));
   };
@@ -30,11 +29,9 @@ const Signup = () => {
     signUpUsingEmailAndPassword()
       .then((result) => {
         history.push(dest_url);
-        console.log(dest_url);
       })
       .catch((err) => {
         setError(err.message);
-        console.log(err.message);
       });
   };
   return (

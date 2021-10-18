@@ -26,7 +26,6 @@ const Login = () => {
       })
       .catch((err) => {
         setError(err.message);
-        console.log(err.message);
       });
   };
   const handleSignin = (e) => {
@@ -37,7 +36,6 @@ const Login = () => {
       })
       .catch((err) => {
         setError(err.message);
-        console.log(err.message);
       });
   };
   return (

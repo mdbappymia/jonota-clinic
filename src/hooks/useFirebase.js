@@ -19,7 +19,6 @@ const useFirebase = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [isLoading, setIsLoading] = useState(true);
-  console.log(email, password);
 
   //   email and password handle function
   const handleEmail = (e) => {
@@ -53,7 +52,6 @@ const useFirebase = () => {
   const logOut = () => {
     signOut(auth).then(() => {
       setUser({});
-      console.log("Log Out");
     });
   };
 

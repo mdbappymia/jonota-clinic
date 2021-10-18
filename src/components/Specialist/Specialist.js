@@ -3,7 +3,6 @@ import { Card } from "react-bootstrap";
 import "./Specialist.css";
 
 const Specialist = ({ specialist }) => {
-  console.log(specialist);
   const {
     name,
     Chamber,
