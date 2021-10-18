@@ -1,6 +1,6 @@
 # This is a Medical service website name is JONOTA CLINIC
 
-This project live link is [Create React App](https://jonota-clinic.web.app/).
+This project live link is [JONOTA CLINIC](https://jonota-clinic.web.app/).
 
 ## The main features of site
 
