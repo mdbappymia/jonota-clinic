@@ -1,0 +1,12 @@
+.banner {
+  background-image: url(./../../images//banner-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: yellowgreen;
+  font-family: "Teko", sans-serif;
+}

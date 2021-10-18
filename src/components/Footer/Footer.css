@@ -1,0 +1,11 @@
+.social li {
+  list-style-type: none;
+}
+.social-link-a {
+  text-decoration: none;
+  margin: 10px 0;
+  color: blanchedalmond !important;
+}
+.social-link-a:hover {
+  color: blue !important;
+}

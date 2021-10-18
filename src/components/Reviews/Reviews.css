@@ -1,0 +1,14 @@
+.carousel {
+  height: 400px;
+  width: 80%;
+  margin: auto;
+}
+.carousel-item img {
+  height: 400px;
+  filter: brightness(0.3);
+}
+@media only screen and (max-width: 666px) {
+  .carousel {
+    width: 100%;
+  }
+}

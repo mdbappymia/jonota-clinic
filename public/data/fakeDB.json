@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Pediatrics",
+    "img": "https://i.ibb.co/BNmJChH/Pediatrics.jpg",
+    "description": "The UCLA Division of Heart and Vascular Services has been providing the most advanced, world-class cardiovascular care for more than 25 years. Nationally, we rank 9th in Cardiology, as determined by U.S. News & World Report. When patients choose UCLA Health, they benefit from working with leaders in the various cardiac fields. We have among the largest heart transplant and lung transplant programs in the country. And, we are a leading center in treating and managing heart failure. We use minimally invasive and robotic surgery techniques, including robotic heart valve surgery and surgery for cardiac arrhythmias. We are experts in surgical treatment for thoracic aortic aneurysms and aortic dissections. Our dedicated research teams keep us at the forefront of new and promising treatments. Patients have access to advanced, leading-edge therapies. A range of specialized clinics offer targeted treatments for patients with complex conditions. Our services include everything from heart disease prevention to women’s cardiovascular services, minimally invasive surgery and heart transplantation. UCLA Health offers general and specialty cardiac care in more than 10 locations across the greater Los Angeles region. This means you can always receive world-class care, close to home.",
+    "our-services": {
+      "Primary-Care": [
+        "Ahmanson/UCLA Adult Congenital Heart Disease Center",
+        "Aortic Center",
+        "Cardiac Arrhythmia Center",
+        "Interventional Cardiology",
+        "Women’s Cardiovascular Center",
+        "ECMO Program",
+        "Heart Transplant Program"
+      ],
+      "Immediate-Care": "If your child is sick or injured and they don’t require emergency attention, you can also find care at our immediate care centers. We offer walk-in visits and same-day appointments.",
+      "Adolescent-medicine": "As your child enters adolescence, our pediatric providers focus on physical, mental and social-emotional issues that are common among teens and young adults ages 12 to 25."
+    },
+    "Meet-our-team": "At UCLA Health, we provide the highest quality of care to children throughout Los Angeles. Learn more about our pediatric care experts. Call 310-825-0867 to request an appointment or log into your MyUCLA Health account."
+  },
+  {
+    "id": 2,
+    "name": "Cardiology",
+    "img": "https://i.ibb.co/jV8GCQL/Cardiology.jpg",
+    "description": "At UCLA Health, we provide innovative health care services from birth to 21 that focus on your child’s specific needs. Our pediatric and family medicine physicians deliver. Our experienced specialists provide the latest in pediatric care. We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion. Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth. Our primary and specialty care pediatric teams are in regular contact to ensure that your child’s care is comprehensive and coordinated. UCLA Health physicians can access your child’s electronic medical record, where they can see immunization schedules, lab tests and imaging studies. Our portal gives parents peace of mind, with less paperwork to manage and details to remember. UCLA Children’s Discovery and Innovation Institute conducts groundbreaking research that prevents and treats childhood diseases. The team of experts has been saving lives through scientific discovery since 2013",
+    "our-services": {
+      "Primary-Care": [
+        "Prenatal consultations and newborn care",
+        "Well care and annual checkups",
+        "School or sports physical exams",
+        "Immunizations",
+        "Same-day sick care",
+        "Chronic disease management",
+        "Reproductive health guidance"
+      ],
+      "Immediate-Care": "When our cardiovascular specialists need to learn more about a patient’s heart condition, we refer patients to one of our clinics for cardiac testing or noninvasive imaging. We use state-of-the-art MRI and CT technology for imaging studies. We also provide a range of heart tests, including Holter monitoring, adult and pediatric electrocardiograms (EKGs). We also have a dedicated clinic for patients with pacemakers.",
+      "Adolescent-medicine": "Our Heart Transplant Program is one of the busiest and most successful programs in the nation. To date, we have performed more than 2,000 adult heart transplants and more than 300 pediatric transplants. Only 5% of our adult patients experience donor heart rejection, compared to the 25% national average."
+    },
+    "Meet-our-team": "Our heart and vascular specialists are leaders in clinical care, education and research. We treat heart and cardiovascular conditions with advanced techniques and excellent outcome rates. Call 310-825-9011 to request an appointment with a cardiovascular specialist at UCLA Health."
+  },
+  {
+    "id": 3,
+    "name": "Neurosurgery",
+    "img": "https://i.ibb.co/0thXPyZ/Neurosurgery.jpg",
+    "description": "The specialists in the UCLA Health Department of Neurosurgery offer comprehensive, specialized care. We consistently rank among the best neurosurgery programs in the nation. U.S. News & World Report lists our neurosurgery and neurology programs as 8th in the country and the highest-ranked in Los Angeles. Highlights of our neurosurgery offerings include: Our neurosurgeons are leaders in their chosen field. Several of our program’s clinicians consistently rank among the “Best Doctors in America” by the American Health Council. Many of our researchers and scientists are recognized leaders in clinical neuroscience and neurobiology. We collaborate closely with subspecialists in neurology, critical care and other areas. This team approach allows us to offer targeted, comprehensive care. If you or your child needs brain surgery, we aim to make your experience as smooth and stress-free as possible. We offer a Peer Support Program where we connect you with a former patient or family member who has had a similar treatment journey.  We use the most advanced neuroimaging options available. Our neurosurgical intensive care unit (ICU) is equipped with advanced brain monitoring technology. We offer specialized neuroendovascular suites that allow us to provide advanced treatments. ",
+    "our-services": {
+      "Primary-Care": [
+        "Brain Tumor Center",
+        "Cerebrovascular Program",
+        "Epilepsy and Functional Neurosurgery Program",
+        "Pediatric neurosurgery",
+        "Peripheral Nerve Program",
+        "Pituitary and Skull Base Tumor Program",
+        "Spine Center"
+      ],
+      "Immediate-Care": "A full team of specialists cares for patients in the neurological ICU. We provide critical care for all types of brain injuries, including stroke and spinal cord injuries.",
+      "Adolescent-medicine": "This cerebral blood flow (CBF) laboratory uses the latest tools to diagnose conditions that affect blood flow in the brain. The equipment in this lab is portable, so we can use it in the neurological ICU to offer expert care."
+    },
+    "Meet-our-team": "Our neurosurgeons are leaders in research, education and clinical care. We collaborate closely with multiple subspecialists to provide comprehensive neurosurgical services. Call 310-825-2631 to request an appointment with a neurosurgeon at UCLA Health."
+  },
+  {
+    "id": 4,
+    "name": "Cancer Care",
+    "img": "https://i.ibb.co/9HW7P2K/A-beautiful-little-girl-with-cancer-takes-a-break-from-treatment-She-is-standing-near-a-large-bay-of.jpg",
+    "description": "At UCLA Health, teams of specialists work together to treat and assist cancer patients and their families. This multidisciplinary approach helps patients and family members confront both the immediate and long-term effects of cancer. UCLA's Jonsson Comprehensive Cancer Center (JCCC) has been designated a 'comprehensive cancer center' by the National Cancer Institute, a testament to its excellence not only in patient care, but also in cancer research, education and community outreach in cancer prevention. Patients benefit from a full range of care and support services from doctors, clinics, centers and hospitals crossing over 40 scientific and medical disciplines. UCLA Health is consistently ranked by U.S. News & World Reports as one of the best cancer center in California, and top in the U.S. A world-class medical center integrated with a research and teaching university, UCLA is consistently ranked by U.S. News & World Reports as the best medical center in the western United States and top hospitals in the country. More than 200 UCLA physicians are listed among the Best Doctors in America. JCCC has established an international reputation for developing new cancer therapies, providing the best in experimental and traditional treatments. Successful targeted therapies such as Herceptin, Gleevec, and Sprycel were developed based on basic science performed in UCLA laboratories and clinical trials with UCLA patients. More than 350 of our physicians and scientists work across areas such as immunology, genetics, geriatrics, hematology, public health, dentistry and nursing to provide patients with comprehensive yet specialized treatment.",
+    "our-services": {
+      "Primary-Care": [
+        "A Comprehensive Cancer Center",
+        "UCLA",
+        "The Most Advanced Treatment",
+        "An Interdisciplinary Approach",
+        "More Than Treatment",
+        "Collaboration",
+        "Many Locations"
+      ],
+      "Immediate-Care": "Patients have access to a full range of services, including early detection, prevention, education, wellness, nutritional guidance, survivorship and psychological support.",
+      "Adolescent-medicine": "Close collaboration between researchers and physicians leads to scientific discoveries and improved cancer detection, prevention and treatment for patients."
+    },
+    "Meet-our-team": "Call the UCLA Cancer Hotline 888-ONC-UCLA (888-662-8252), Monday to Friday, 8 am - 5 pm to request an appointment or contact the general UCLA Health patient access center at 310-825-2631."
+  },
+  {
+    "id": 5,
+    "name": "Bladder Cancer",
+    "img": "https://i.ibb.co/Htyk10B/Bladder-cancer-medical-concept-as-a-urinary-anatomical-organ-symbol-with-microscopic-cancerous-malig.jpg",
+    "description": "The UCLA Health Bladder Cancer Program is part of the Institute of Urologic Oncology at the UCLA Jonsson Comprehensive Cancer Center (JCCC). The JCCC is one of only 51 cancer centers recognized by the National Institutes of Health for innovative cancer research and clinical care. At UCLA Health, our Bladder Cancer Program includes: The Bladder Cancer Program at UCLA Health offers the latest state-of-the-art treatments and individualized care. Our specialists meet regularly to share expertise and discuss each bladder cancer patient’s treatment. For more than 50 years, our scientists have been making groundbreaking discoveries. We offer patients the opportunity to join our pioneering clinical trials. You can receive bladder cancer services at our community cancer care centers located across the greater Los Angeles region. UCLA Health is proud to offer the highest-quality care close to home.",
+    "our-services": {
+      "Primary-Care": [
+        "Bladder biopsy",
+        "CT and MRI scans",
+        "Cystoscopy",
+        "Intravenous pyelogram",
+        "Urinalysis",
+        "Adenocarcinoma",
+        "Squamous cell bladder cancer"
+      ],
+      "Immediate-Care": "Our Genitourinary Cancer Genetic Risk Assessment Program evaluates the potential genetic causes that increase bladder cancer risk. Knowing about a specific genetic risk can more precisely tailor a treatment plan that is optimal for you. Learn more about the cancer genetics program at UCLA Health.",
+      "Adolescent-medicine": "Finding a supportive community helps ease the burden of cancer. Count on the Simms/Mann-UCLA Center for Integrative Oncology . We provide numerous resources to help cancer patients cope, including trainings and workshops from mind-body healing to stress management strategies."
+    },
+    "Meet-our-team": "The most common form of bladder cancer. It originates in the urothelial cells, which line the inside of the bladder. It may also be called transitional cell carcinoma."
+  },
+  {
+    "id": 6,
+    "name": "Radiation Oncology",
+    "img": "https://i.ibb.co/x1zf0r4/Doctors-are-working-with-CT-scan-in-hospital.jpg",
+    "description": "At UCLA Health, our radiation oncologists use a patient-centered approach to care. We deliver expert care for patients while also offering attentive support for family members. We live out our mission to advance cancer treatment through research initiatives that directly translate to better patient care. When patients choose UCLA Health for radiation oncology, they are choosing:  Our team includes physicians, radiation therapists, scientists, medical physicists, specialized nurses and more. Combined with our state-of-the-art technology and radiation techniques, we have the expertise to offer patients the most advanced treatments available. Our goal is to give each patient the best chances for a positive outcome. We want to ensure that every patient has access to expert care. In fact, some of our research initiatives have included building remote options for telehealth consultations. Expanding our telehealth options allows patients who live far away or have busy schedules to connect with a specialist efficiently.We give patients even more options for radiation treatment. We are one of only a few centers that offers high dose rate (HDR) brachytherapy for a large range of complex cancers. Our center is also one of only three in the world that uses a Flexitron machine, which allows us to give HDR brachytherapy in one comfortable outpatient setting.",
+    "our-services": {
+      "Primary-Care": [
+        "Breast cancer",
+        "Lung cancer",
+        "Lymphoma",
+        "Prostate cancer",
+        "Sarcoma",
+        "Skin cancer",
+        "Trigeminal neuralgia"
+      ],
+      "Immediate-Care": "This treatment sends radiation directly on or into cancer tissue. Sometimes, we use metal or plastic tubes called applicators to focus and direct the radiation to a precise location. We may also use high dose rate (HDR) brachytherapy, where we use a high dose of radiation for 10 to 20 minutes at a time. We have one of the best, highest-volume brachytherapy centers in the country. At our brachytherapy suite, we can use this treatment on an outpatient basis, during surgery or to prepare for surgery.",
+      "Adolescent-medicine": " SBRT combines the technology of image-guided radiation with stereotactic techniques. First, we take three-dimensional scans of a tumor. The scans integrate with software that helps us plan exactly where to target radiation. Then, we use stereotactic radiosurgery to deliver the radiation dose with expert precision. SBRT can significantly shorten treatment time. It often only requires about five individual treatment sessions, as opposed to the 35 sessions needed with other techniques. "
+    },
+    "Meet-our-team": "Our team includes experts, both in patient care and research. We are continually finding and implementing new gold-standard treatments. Our clinicians use a patient-centered approach that prioritizes safety, precision and comfort."
+  },
+  {
+    "id": 7,
+    "name": "Clinical Nutrition",
+    "img": "https://i.ibb.co/z8hyKLB/Smiling-nutritionist-in-her-office-she-is-showing-healthy-vegetables-and-fruits.jpg",
+    "description": "The UCLA Center for Human Nutrition is at the forefront of clinical practice and nutrition research. Our aim is to help patients and the community understand how nutrition affects overall health and wellness.We offer a variety of nutrition programs to help you become your healthiest self. Our team addresses the unique barriers and challenges that keep you from achieving your weight loss or health goals. Our specialists approach patients as individuals. We use a comprehensive approach that assesses every genetic, metabolic, social or behavioral factor. These factors affects your weight loss success and ability to achieve your health goals. When you choose bariatric (weight loss) surgery, nutrition experts are part of the team. We help you meet your nutritional goals pre- and post-surgery so that you experience long-term weight loss benefits. We offer online classes from expert UCLA physicians and dietitians. You receive life-changing advice and learn in a group setting about how nutrition, exercise and stress affect your health goals. Our team participates in research and clinical trials so that we can offer you the newest available care options. We continue to learn more about how your genetic makeup affects your weight and nutrition needs.",
+    "our-services": {
+      "Primary-Care": [
+        "Clinical Nutrition Clinic",
+        "Medical Weight Management Program",
+        "Healthier Weight Management Webinar Series",
+        "Center for Obesity and Metabolic Health (COMET) Program",
+        "Cardiovascular disease",
+        "Hypertension (high blood pressure)",
+        "Ulcerative colitis"
+      ],
+      "Immediate-Care": "Physicians and dietitians guide you to make lifestyle modifications and adopt weight loss plans. Each week, experts review a different weight loss-related topic in a group setting. ",
+      "Adolescent-medicine": "Our nutrition specialists offer individualized care for a variety of conditions. We provide care for those with gastrointestinal conditions, cancer, kidney stones, AIDS-related malnutrition and more."
+    },
+    "Meet-our-team": "Our team includes physicians, dietitians, nurses and psychologists who specialize in nutrition. We participate in the latest research and offer you personalized, evidence-based care. Call 310-825-7921 to request an appointment with a clinical nutrition specialist at UCLA Health. To reach the Medical Weight Management Program, please call 310-825-8173."
+  },
+  {
+    "id": 8,
+    "name": "Heart and Liver Disease",
+    "img": "https://i.ibb.co/dKY0PyZ/Female-doctor-with-stethoscope-holding-heart-liver-and-kidney.jpg",
+    "description": "The UCLA Combined Heart and Liver Disease Program (UC-HeLP) is a multidisciplinary effort to treat patients who have both heart and liver disease. The effects of heart disease on other organs can be profound. Doctors are increasingly understanding that certain types of heart disease can severely affect the liver. This awareness has spurred our experts to better understand, diagnose and manage combined cardiac and liver disease. Multiple specialists work together on each patient’s care plan. We meet to review each surgical or transplant case and discuss preoperative challenges, care coordination in the operating room and postoperative treatment. This collaboration means we create a personalized treatment plan based on each patient’s needs.  When patients need a heart transplant, liver transplant or both, we have a streamlined evaluation process. We aim to reduce as many logistical burdens as we can to create a seamless care journey for patients and their families. Our doctors conduct research to ensure that we are constantly advancing the field of heart and liver disease management. We have developed best practices in caring for both progressive cardiac and liver disease as well as liver cancer.",
+    "our-services": {
+      "Primary-Care": [
+        "Anesthesiology ",
+        "Critical care ",
+        "Heart disease (cardiology)",
+        "Heart transplant surgery",
+        "Infectious diseases",
+        "Kidney disease (nephrology)",
+        "Liver disease (hepatology)"
+      ],
+      "Immediate-Care": "Physicians and dietitians guide you to make lifestyle modifications and adopt weight loss plans. Each week, experts review a different weight loss-related topic in a group setting. Almost all patients who have had a Fontan procedure experience liver congestion and fibrosis that may lead to liver failure. Through the program, specialists from multiple disciplines work together to help patients with the highest risk of combined heart and liver disease.",
+      "Adolescent-medicine": " When the right side of the heart does not pump blood to the lungs as efficiently as it should.Congenital heart disease Problems with the heart’s structure that are present at birth. Single ventricle defects When one of the two lower heart chambers (ventricles) is not developed enough or strong enough to work correctly"
+    },
+    "Meet-our-team": "The UC-HeLP team includes multiple collaborating specialists. They provide expert patient care, conduct research and train other specialists in heart and liver disease management. Call 310-825-9011 to request an appointment with a specialist at UCLA Health."
+  },
+  {
+    "id": 9,
+    "name": "Long COVID",
+    "img": "https://i.ibb.co/qrL6TD6/Young-woman-have-hair-cutting-at-hair-stylist-during-pandemic-isolation-they-both-wear-protective-eq.jpg",
+    "description": "The U.S. Centers for Disease Control and Prevention (CDC) define long COVID as a group of symptoms that linger for weeks or months after a COVID-19 infection. About one out of every three people who had coronavirus develops long COVID or “long haulers.” These symptoms can cause problems in multiple organs and body systems at once. Even people who had a mild case of the virus can have persistent COVID symptoms that disrupt their daily life. Specialists at UCLA Health are uniquely qualified to diagnose, manage and treat lingering symptoms of COVID-19. Since the beginning of the pandemic, our specialists have been at the forefront of exceptional, compassionate care for people with coronavirus. As leaders in long COVID care, we put our knowledge to work for you. You’ll receive expert care from a top team of multidisciplinary specialists devoted to your recovery. We understand that effective treatments begin with a precise diagnosis. Our team uses the latest advances in testing to confirm a long COVID diagnosis and rule out other undiagnosed medical conditions. You’ll receive a comprehensive evaluation from an internal medicine physician who specializes in long COVID so we can plan the right treatments and therapies for you. ",
+    "our-services": {
+      "Primary-Care": [
+        "Long COVID diagnostics",
+        "Long COVID treatments",
+        "Long COVID support",
+        "Long COVID research",
+        "Post-COVID symptoms we treat",
+        "Neurological symptoms",
+        "Respiratory symptoms"
+      ],
+      "Immediate-Care": "Our experienced, compassionate psychologists treat depression, anxiety and other mental health concerns that can result from long-COVID syndrome. Offering therapy and counseling, we specialize in helping people with PTSD after COVID-19.",
+      "Adolescent-medicine": "In collaboration with UCLA Health endocrinology specialists, we care for people who develop diabetes after a COVID-19 infection. In addition to creating a tailored diabetes care plan, we offer education, nutritional services and support to help you manage this condition."
+    },
+    "Meet-our-team": "The UCLA Health Long COVID team includes internal medicine physicians and specialists from cardiology, pulmonology, neurology, psychology and other departments. We collaborate with physical therapists, occupational therapists, pharmacists and social workers to deliver compassionate, comprehensive post-COVID care."
+  }
+]

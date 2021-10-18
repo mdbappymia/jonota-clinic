@@ -1,0 +1,18 @@
+.services-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 50px 0;
+  text-align: center;
+  grid-gap: 30px;
+}
+.service-heading {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: "Teko", sans-serif;
+}
+
+@media only screen and (max-width: 666px) {
+  .services-container {
+    grid-template-columns: 1fr;
+  }
+}

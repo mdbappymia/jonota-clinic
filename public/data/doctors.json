@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dr. Shah Muhammad Ali",
+    "Qualification": "MBBS, FCPS",
+    "specialOn": "Anesthesiology Specialist Consultant",
+    "workPlace": "SQUARE Hospitals Ltd.",
+    "Chamber": "SQUARE Hospitals Ltd.",
+    "Location": "18/F West Panthapath, Dhaka - 1205, Bangladesh.",
+    "Phone": "+880-2-8159457, 8142431, 8141522, 8144400,8142333, 01713141447"
+  },
+
+  {
+    "name": "Dr. Lutful Aziz",
+    "specialOn": "Anesthesiology Specialist",
+    "Qualification": "Assoc. Prof., BSMMU",
+    "Chamber": "Lab Aid Cardiac Hospital, House # 1, Road # 4, Dhanmondi",
+    "Location": "18/F West Panthapath, Dhaka - 1205, Bangladesh.",
+    "phone": " +880-2-9670210-3, 9354641"
+  },
+  {
+    "name": "Professor Dr. Md. Ahsanul Habib",
+    "Qualification": "MBBS, FCPS",
+
+    "specialOn": "Anesthesiology Specialist Consultant",
+    "Chamber": "SQUARE Hospitals Ltd.",
+    "Location": "Dhaka - 1205, Bangladesh.",
+    "Phone": "+880-2-8159457, 8142431, 8141522, 8144400,8142333, 01713141447"
+  },
+
+  {
+    "name": "Professor Dr. Kazi Mesbahuddin lqbal",
+    "Qualification": "MBBS, DA, FFARCS (Ireland), FRCA (USA)",
+    "specialOn": "Anesthesiology Specialist Coordinator & Senior Consultant",
+    "Chamber": "Apollo Hospitals Dhaka",
+    "Location": "Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229",
+    "Phone": "+880-2-8401661, 8845242, Cell: +880 1841276556, Hotline: 10678"
+  },
+
+  {
+    "name": "Professor ( Brig. General ) M H M Delowar Hossain",
+    "Qualification": "MBBS, DA, MCPS, FCPS",
+    "specialOn": "Anesthesiology Specialist Combined Military Hospital (CMH), Dhaka",
+
+    "Chamber": "Ibn Sina Diagnostic & Imaging Center",
+    "Location": "House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh",
+    "Phone": "+880-2-9128835-7, 9126625-6, Cell: +880 1717351631, +880 1913568759 ( Chamber )"
+  },
+
+  {
+    "name": "Professor Dr. Md. Khalilur Rahman",
+    "Qualification": "MBBS, MCPS, FCPS, DA (UK), FFARCS (Ireland)",
+    "specialOn": "Anesthesiology Specialist Consultant",
+    "Chamber": "SQUARE Hospitals Ltd.",
+    "Location": "18/F Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka - 1205, Bangladesh.",
+    "Phone": "+880-2-8159457, 8142431, 8141522, 8144400,8142333, 01713141447"
+  },
+  {
+    "name": "Professor Dr. Salim Mohammad Jahangir",
+    "Qualification": "MBBS, FCPS (Anaesthesia)",
+    "specialOn": "Anesthesiology Specialist Senior Consultant, Apollo Hospitals Dhaka",
+    "Chamber": "Apollo Hospitals Dhaka",
+    "Location": "Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229",
+    "Phone": "+880-2-8401661, 8845242, Cell: +880 1841276556, Hotline: 10678"
+  }
+]

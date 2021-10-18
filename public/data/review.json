@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jack Anderson",
+    "review": "The services that I receive from Jonota Clinic is excellent. Doctor and the staff are friendly and ensure that I am properly informed about my health and care. I would have no qualms in recommending them to friendly and friends.",
+    "img": "https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg",
+    "star": "5"
+  },
+  {
+    "name": "Jessy Roberts",
+    "review": " Doctor did a great job with my first ever health exam. She explained everything to me in a very clear manner. She was also kind and friendly. All of the staff was great – they were helpful, patient and helped with my insurance.",
+    "img": "https://st3.depositphotos.com/1037987/15097/i/600/depositphotos_150975580-stock-photo-portrait-of-businesswoman-in-office.jpg",
+    "star": "5"
+  },
+  {
+    "name": "Jams White",
+    "review": "Great medical office, wonderful and warm experience from start to finish. Appreciate Dr. (Name) taking time to go over the diagnosis clearly and treatment options. Was referred over by my general doctor and can see why. Highly recommended.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUh_r6fI3Vsz2hrtDX4BLqXgRNhULv1-vcA&usqp=CAU",
+    "star": "5"
+  }
+]
