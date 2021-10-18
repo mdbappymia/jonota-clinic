@@ -10,7 +10,7 @@ const useData = () => {
   }, []);
 
   useEffect(() => {
-    fetch("data/doctors.json")
+    fetch("/data/doctors.json")
       .then((res) => res.json())
       .then((data) => setSpecialists(data));
   }, []);

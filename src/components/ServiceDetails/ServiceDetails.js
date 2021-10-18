@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable eqeqeq */
 import React, { useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
@@ -34,7 +35,6 @@ const ServiceDetails = () => {
       <p>{Adolescent_medicine}</p>
       <h5 className="fw-bold mt-4">Immediate Care</h5>
       <p>{Immediate_Care}</p>
-
       <h4 className="fw-bold">Meet Out Team</h4>
       <p>{Meet_our_team} </p>
     </Container>

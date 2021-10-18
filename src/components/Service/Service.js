@@ -5,7 +5,7 @@ import "./Service.css";
 
 const Service = ({ service }) => {
   const { id, name, img, description } = service;
-  console.log(id);
+
   return (
     <Card className="service-card">
       <Card.Img variant="top" src={img} />

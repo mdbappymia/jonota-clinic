@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# This is a Medical service website name is JONOTA CLINIC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project live link is [Create React App](https://jonota-clinic.web.app/).
 
-## Available Scripts
+## The main features of site
 
-In the project directory, you can run:
+- This site is a medical website name as jonota clinic. This site is a imagination medical center. The data are note related on the site. This data are collected on the google.
 
-### `yarn start`
+- This site has some page. Like as home, about us, contact us, specialist and so on.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- The navbar and footer are common of all page of the site.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- In the homepage, the header section , the service section, the gallery section, and review section are locate. In the service section has a button, you can click on this button, and see the all details of service.
 
-### `yarn test`
+- The gallery section has some interesting image that are related on the site.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- The interesting part of this site is review section. On this section, I use a carousel and show the data of specific user.
 
-### `yarn build`
+## The site made I used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- On the site I made the most powerful javascript library name is react.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- This is a single page website. I applied the multiple page behavior using react router dom. It is very interesting thing on the react application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- In the site, the service details page is private. You cannot see the service details page without login.
 
-### `yarn eject`
+- In this site, the login and sign up system are applied. The system applied I use the firebase.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- The overall design I used react-bootstrap and raw css. Some time I use the bootstrap class to applied some design.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- The site are responsive for mobile and desktop.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Thanks for your time

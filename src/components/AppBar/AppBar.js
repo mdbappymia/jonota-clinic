@@ -6,7 +6,7 @@ import "./AppBar.css";
 
 const AppBar = () => {
   const { user, logOut } = useRent();
-  const avaterPhoto =
+  const avatarPhoto =
     "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png";
   return (
     <Navbar sticky="top" bg="light" expand="lg">
@@ -37,10 +37,12 @@ const AppBar = () => {
                 </small>
                 <img
                   className="user-photo"
-                  src={user.photoURL || avaterPhoto}
+                  src={user.photoURL || avatarPhoto}
                   alt=""
                 />
-                <Button onClick={logOut}>Logout</Button>
+                <Button variant="danger" onClick={logOut}>
+                  Logout
+                </Button>
               </>
             ) : (
               <Link to="/login">

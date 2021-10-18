@@ -7,20 +7,39 @@ import {
   signInWithPopup,
   onAuthStateChanged,
   signOut,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
 } from "firebase/auth";
 
 initializeAuthentication();
 const useFirebase = () => {
   const [user, setUser] = useState({});
   const [error, setError] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [isLoading, setIsLoading] = useState(true);
+  console.log(email, password);
+  const handleEmail = (e) => {
+    const email = e.target.value;
+    setEmail(email);
+  };
+  const handlePassword = (e) => {
+    const password = e.target.value;
+    setPassword(password);
+  };
   const auth = getAuth();
   const signInUsingGoogle = () => {
+    setIsLoading(true);
     const provider = new GoogleAuthProvider();
-    signInWithPopup(auth, provider)
-      .then((result) => {
-        setUser(result.user);
-      })
-      .catch((err) => setError(err.message));
+    return signInWithPopup(auth, provider);
+  };
+  const signUpUsingEmailAndPassword = (e) => {
+    setIsLoading(true);
+    return createUserWithEmailAndPassword(auth, email, password);
+  };
+  const signInUsingEmailAndPassword = (e) => {
+    setIsLoading(true);
+    return signInWithEmailAndPassword(auth, email, password);
   };
   const logOut = () => {
     signOut(auth).then(() => {
@@ -28,16 +47,32 @@ const useFirebase = () => {
       console.log("Log Out");
     });
   };
+
   useEffect(() => {
-    onAuthStateChanged(auth, (user) => {
+    const unsubcribed = onAuthStateChanged(auth, (user) => {
       if (user) {
         setUser(user);
       } else {
         setUser({});
       }
+      setIsLoading(false);
     });
+    return unsubcribed;
   }, []);
-  return { signInUsingGoogle, user, logOut, error };
+  return {
+    signInUsingGoogle,
+    user,
+    setUser,
+    setError,
+    logOut,
+    error,
+    handleEmail,
+    handlePassword,
+    signUpUsingEmailAndPassword,
+    signInUsingEmailAndPassword,
+    isLoading,
+    setIsLoading,
+  };
 };
 
 export default useFirebase;

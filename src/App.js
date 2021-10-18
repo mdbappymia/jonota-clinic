@@ -7,6 +7,8 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import Home from "./components/Home/Home";
 import Login from "./components/Login/Login";
+import NotFoundPage from "./components/NotFoundPage/NotFoundPage";
+import PrivetRoute from "./components/PrivetRoute/PrivetRoute";
 import ServiceDetails from "./components/ServiceDetails/ServiceDetails";
 import Signup from "./components/Signup/Signup";
 import Specialists from "./components/Specialists/Specialists";
@@ -39,8 +41,11 @@ const App = () => {
           <Route path="/signup">
             <Signup></Signup>
           </Route>
-          <Route path="/servicedetails/:id">
+          <PrivetRoute path="/servicedetails/:id">
             <ServiceDetails></ServiceDetails>
+          </PrivetRoute>
+          <Route path="*">
+            <NotFoundPage></NotFoundPage>
           </Route>
         </Switch>
         <Footer></Footer>
