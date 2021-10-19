@@ -11,7 +11,9 @@ const AppBar = () => {
   return (
     <Navbar sticky="top" bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">Jonota Clinic</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/">
+          Jonota Clinic
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
@@ -40,6 +42,9 @@ const AppBar = () => {
                   src={user.photoURL || avatarPhoto}
                   alt=""
                 />
+                <Link to="/profile">
+                  <button className="mt-2 me-2">View Profile</button>
+                </Link>
                 <Button variant="danger" onClick={logOut}>
                   Logout
                 </Button>
