@@ -1,7 +1,9 @@
 import React from "react";
 import { Container, Form, Button, Row, Col } from "react-bootstrap";
+import useRent from "../../hooks/useRent";
 
 const Contact = () => {
+  const { user } = useRent();
   return (
     <Container className="my-5">
       <h1 className="service-heading my-5 text-center">Contact Us</h1>
@@ -22,7 +24,11 @@ const Contact = () => {
         </Row>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>
-          <Form.Control type="email" placeholder="Enter email" />
+          <Form.Control
+            value={user.email}
+            type="email"
+            placeholder="Enter email"
+          />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicPassword">
           <Form.Label>Address</Form.Label>
