@@ -14,6 +14,7 @@ const Login = () => {
     signInUsingEmailAndPassword,
     setError,
     error,
+    setIsLoading,
   } = useRent();
   const location = useLocation();
   const history = useHistory();
@@ -26,6 +27,9 @@ const Login = () => {
       })
       .catch((err) => {
         setError(err.message);
+      })
+      .finally(() => {
+        setIsLoading(false);
       });
   };
   const handleSignin = (e) => {
@@ -36,6 +40,9 @@ const Login = () => {
       })
       .catch((err) => {
         setError(err.message);
+      })
+      .finally(() => {
+        setIsLoading(false);
       });
   };
   return (

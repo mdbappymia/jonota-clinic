@@ -13,6 +13,7 @@ const Signup = () => {
     signInUsingGoogle,
     setError,
     error,
+    setIsLoading,
   } = useRent();
   const location = useLocation();
   const history = useHistory();
@@ -22,7 +23,10 @@ const Signup = () => {
       .then((result) => {
         history.push(dest_url);
       })
-      .catch((err) => setError(err.message));
+      .catch((err) => setError(err.message))
+      .finally(() => {
+        setIsLoading(false);
+      });
   };
   const handleSignup = (e) => {
     e.preventDefault();
@@ -32,6 +36,9 @@ const Signup = () => {
       })
       .catch((err) => {
         setError(err.message);
+      })
+      .finally(() => {
+        setIsLoading(false);
       });
   };
   return (
